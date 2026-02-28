@@ -9,9 +9,23 @@
     "lint": "eslint"
   },
   "dependencies": {
+    "@emotion/react": "^11.14.0",
+    "@emotion/styled": "^11.14.1",
+    "@fontsource/roboto": "^5.2.10",
+    "@mui/material": "^7.3.8",
+    "@mui/styled-engine-sc": "^7.3.8",
+    "@mui/x-date-pickers": "^8.27.2",
+    "@reduxjs/toolkit": "^2.11.2",
+    "axios": "^1.13.6",
+    "dayjs": "^1.11.19",
+    "lucide-react": "^0.575.0",
+    "mui-tel-input": "^9.0.1",
     "next": "16.1.6",
     "react": "19.2.3",
-    "react-dom": "19.2.3"
+    "react-dom": "19.2.3",
+    "react-redux": "^9.2.0",
+    "redux-persist": "^6.0.0",
+    "styled-components": "^6.3.11"
   },
   "devDependencies": {
     "@tailwindcss/postcss": "^4",
